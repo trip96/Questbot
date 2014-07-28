@@ -1,0 +1,23 @@
+**Daily Quests are posted once a day.**
+***
+
+**Rules for this Daily:**
+
+- Invite another quester to questbot who then creates a quest. 
+
+- The quest bounty must be over 500 doge. 
+
+- The Proof must be in reply to the first comment with the following format. Replace the italicized information:
+
+- +/u/dailyquestbot daily recruit complete. */u/yourusername* brought */u/friendsusername* with quest ID: *quest_id_of_newly_created_quest*
+
+
+*** 
+
+**Daily Recruit Payout Information:**
+
+The first people to complete dailies get more doge, so complete them fast!!!
+
+***  
+
+**Time left to complete the Daily: 0 hours** 
